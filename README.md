@@ -22,7 +22,7 @@ The app helps users with communication difficulties by interpreting hand gesture
 ## Sqar Design (Figma)
 
 The full design is available in the PDF below:  
-[View Design (PDF)](./sqar-screens.pdf)
+[View Design (PDF)](Sqar%20Screens%20(Figma).pdf)
 
 
 ## Project Status
