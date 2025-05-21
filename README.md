@@ -19,6 +19,12 @@ The app helps users with communication difficulties by interpreting hand gesture
 - Python for gesture recognition logic  
 - Supabase for backend and data synchronization
 
+## Sqar Design (Figma)
+
+The full design is available in the PDF below:  
+[Download Design (PDF)](design/sqar-screens.pdf)
+
+
 ## Project Status
 
 The core features are implemented and the app is ready for further enhancement based on feedback and testing.
