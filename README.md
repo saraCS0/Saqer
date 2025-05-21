@@ -21,8 +21,8 @@ The app helps users with communication difficulties by interpreting hand gesture
 
 ## Sqar Figma Design
 
-The full design is available in the PDF below:  
-[View Design (PDF)](Sqar%20figma%20design%20.pdf)
+The full UI design is available in the PDF below:  
+[View Design (PDF)](Saqar-figma-design.pdf)
 
 
 ## Project Status
